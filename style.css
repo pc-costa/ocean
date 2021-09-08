@@ -1,0 +1,50 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(turtle2.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+hr{
+  background-color: #9ebbe4f5;
+  opacity: 70%;
+ }
+
+.buffer{
+  height: 30px;
+}
+
+h1{
+  font-size: 3rem;
+  color: #5c93e4f5;
+}
+
+.buffer2{
+  height: 60px;
+}
+
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;
+}
+
+.btn-primary{
+  background-color: #23a5a2;
+  border-color: #23a5a2;
+}
+
+.btn-primary:hover{
+  background-color: #47aba8;
+  border-color: #47aba8;
+  border-width: 2px;
+}
+
+.btn-xl{
+  padding: 1rem 2rem;
+}
